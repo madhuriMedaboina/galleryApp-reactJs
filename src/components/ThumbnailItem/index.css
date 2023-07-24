@@ -1,0 +1,19 @@
+/* Write your code here. */
+
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.image_tab {
+  height: 50px;
+  width: 50px;
+  opacity: 1;
+}
+.change_image {
+  height: 50px;
+  width: 50px;
+  opacity: 0.5;
+}
